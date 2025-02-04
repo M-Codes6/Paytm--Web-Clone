@@ -1,6 +1,7 @@
 # Paytm--Web-Clone
 Paytm Web Clone: Experience a crafted replica of Paytm's web interface built from scratch using HTML, CSS, and JavaScript. While currently non-responsive, it features meticulous linking for various sections, ensuring seamless navigation to associated pages.
 
+It has a total of 4,408 lines of code, including 1,079 lines of HTML, 2,921 lines of CSS, and 48 lines of JavaScript, and I built it from scratch.
 
 
 Welcome to the Paytm Web Clone project! This project aims to replicate the user interface of Paytm's web platform using HTML, CSS, and JavaScript.
